@@ -1,2 +1,2 @@
-# C---Esercizi
+# CSharp-Esercizi
 Raccolta di esercizi svolti durante lo studio di C#
